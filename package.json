@@ -17,10 +17,18 @@
   },
   "homepage": "https://github.com/claireli428/ReactDemo#readme",
   "dependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "bootstrap": "^3.3.7",
     "jquery": "^3.1.1",
-    "react": "^15.4.2"
+    "react": "^15.4.2",
+    "react-bootstrap": "^0.30.7",
+    "react-dom": "^15.4.2"
   },
   "devDependencies": {
-    "webpack": "^2.2.1"
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.1"
   }
 }
