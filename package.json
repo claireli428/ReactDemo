@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/claireli428/ReactDemo#readme",
   "dependencies": {
-    "jquery": "^3.1.1"
+    "jquery": "^3.1.1",
+    "react": "^15.4.2"
   },
   "devDependencies": {
     "webpack": "^2.2.1"
